@@ -1,0 +1,4 @@
+Passo a sinistra
+Passo a destra
+Salta in alto
+Esegui la danza dell'arcobaleno!
