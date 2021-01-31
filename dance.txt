@@ -1,4 +1,5 @@
 Passo a sinistra
 Passo a destra
 Salta in alto
+Gira le mani
 Esegui la danza dell'arcobaleno!
